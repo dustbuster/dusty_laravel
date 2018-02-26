@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello Dusty
+                    About Dusty!
                 </div>
 
                 <div class="links">
